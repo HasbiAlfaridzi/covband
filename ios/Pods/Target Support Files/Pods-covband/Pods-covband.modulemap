@@ -1,0 +1,6 @@
+module Pods_covband {
+  umbrella header "Pods-covband-umbrella.h"
+
+  export *
+  module * { export * }
+}

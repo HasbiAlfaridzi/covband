@@ -1,0 +1,6 @@
+module Pods_covband_covbandTests {
+  umbrella header "Pods-covband-covbandTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
